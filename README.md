@@ -1,2 +1,2 @@
-# College-duniya
-A Website for students searching for college all over the India.
+# collegeduniya
+Our website provides information about best colleges and courses all over India and Abroad.
